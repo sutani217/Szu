@@ -1,2 +1,2 @@
 # szu
-All Szu-related things
+Wszystkie rzeczy związane z (wielkim) Szu
