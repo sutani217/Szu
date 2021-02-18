@@ -9,4 +9,5 @@ int main()
     int next = N + 1;
     while(next % K != 0) next++;
     printf("%d", next);
+    return 0;
 }
