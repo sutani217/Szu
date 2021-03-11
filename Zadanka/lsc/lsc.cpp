@@ -6,7 +6,6 @@ int main()
 {
 	int N, P, K;
 	scanf("%d %d %d", &N, &P, &K);
-	int w = 0;
 	for(; P <= K; P++)
 	{
 		int w_local = 0;
